@@ -20,7 +20,7 @@ Which wards in Osogbo LGA are located more than 5 km from a designated public ma
 
 - ## What i would be building
 1. Interactive Market Accessibility Map
-- I will be using QGIS to visualize Osogbo’s wards, markets, and 5 km buffer zones.
+- I will be using QGIS to visualize Osogbo’s wards, markets, within 5 km buffer zones.
 - Highlight wards outside the buffer in red to show underserved areas.
 - Add pop‑ups with ward names, population estimates, and distance to the nearest market.
 
