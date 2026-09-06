@@ -24,10 +24,12 @@ Which wards in Osogbo LGA are located more than 5 km from a designated public ma
 - Highlight wards outside the buffer in red to show underserved areas.
 - Add pop‑ups with ward names, population estimates, and distance to the nearest market.
 
-2. Market Planning Dashboard
- This will Include: Interactive map layers (markets, wards, roads), Charts showing percentage of population within/outside 5 km coverage,Filters for market type (daily, periodic, wholesale).
+2. Market Planning Dashboard, This will Include:
+- Interactive map layers (markets, wards, roads)
+- Charts showing percentage of population within/outside 5 km coverage
+- Filters for market type (daily, periodic, wholesale).
 
 3. Decision‑Support Outputs
-Accessibility Index: Score each ward based on proximity to markets.
-Priority List: Identify top 5 wards needing new market sites.
+- Accessibility Index: Score each ward based on proximity to markets.
+- Priority List: Identify top 5 wards needing new market sites.
 
